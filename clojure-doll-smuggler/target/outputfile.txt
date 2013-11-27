@@ -1,0 +1,15 @@
+packed dolls:
+
+    name	weight		value
+    luke	     9		  150
+   sally	     4		   50
+    marc	    11		   70
+   puppy	    15		   60
+  grumpy	    22		   80
+ dorothy	    50		  160
+   eddie	     7		   20
+ anthony	    13		   35
+  randal	    27		   60
+   dusty	    43		   75
+grumpkin	    42		   70
+ candice	   153		  200
